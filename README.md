@@ -1,5 +1,7 @@
 **`Fullswag Developer`** *@ [shi.gg](https://shi.gg)*
 
+<image src="https://media.wamellow.com/static/luna/banner.webp" alt="banner" style="border-radius: 1rem;" />
+
 My name is Luna Seemann, I am an autistic full-stack developer, I am passionate about programming and love working with different languages, mainly TypeScript and Go. I enjoy creating a wide range of things, from [websites](https://shi.gg) and [Discord Bots](https://wamellow.com) to small utilities.
 
 I'm also known as `mwlica` on other platforms, like [Discord](https://discord.gg/yYd6YKHQZH)!
